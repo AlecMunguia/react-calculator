@@ -1,7 +1,5 @@
 test test test
 
-
-
 # TDD React
 
 A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
